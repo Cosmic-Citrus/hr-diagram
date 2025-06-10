@@ -6,7 +6,7 @@ The purpose of this code is to generate Hertzsprung-Russell (HR) Diagrams.
 
 The HR Diagram can be used to model stellar evolution. The location of a star on the HR Diagram will change as the star enters different stages of its life-cycle. Repeating this procedure for multiple stars reveals some trends that are useful for classifying them into different groups.
 
-<img src="file:///Users/owner/Desktop/programming/hr_diagram/output/example_01-data_via_web_scrape/HR_Diagram-LuminosityClass-AbsoluteMagnitude_VS_ColorIndex(BV)-wSun-wIsoRadius-wSpectralTypes_MarkAt9V.png" title="" alt="example-hr-diagram-basic" data-align="center">
+<img src="output/example_01-data_via_web_scrape/HR_Diagram-LuminosityClass-AbsoluteMagnitude_VS_ColorIndex(BV)-wSun-wIsoRadius-wSpectralTypes_MarkAt9V.png" title="" alt="example-hr-diagram-basic" data-align="center">
 
 An explanation of relevant parameters is below:
 
@@ -121,7 +121,7 @@ An explanation of relevant parameters is below:
       * white dwarfs
 
 As a helpful reference, the Sun is considered a G2 V star on the main sequence at present. Even without accounting for quantum effects - such as electron degeneracy pressure - there is a dance between gravity pulling the star inwards and thermal pressure pushing the star outwards; when the Sun is a red giant in a few billion years, it will have a different surface temperature, surface area, luminosity, absolute magnitude, spectral classification, and luminosity class. 
-<img src="file:///Users/owner/Desktop/programming/hr_diagram/output/example_01-data_via_web_scrape/HR_Diagram-2DHistogram-AbsoluteMagnitude_VS_ColorIndex(BV)-wSun-wIsoRadius-wSpectralTypes_MarkAt9V.png" title="" alt="example-2D_histogram" data-align="center">The data (HYG 4.1) for this project was obtained from the HYG Database, which is provided by Astronomy Nexus; they have compiled data on nearly $120,000$ stars from combined subsets of data from the Hipparcos Catalog, the Yale Bright Star Catalog, and the Gliese Catalog of Nearby Stars.
+<img src="output/example_01-data_via_web_scrape/HR_Diagram-2DHistogram-AbsoluteMagnitude_VS_ColorIndex(BV)-wSun-wIsoRadius-wSpectralTypes_MarkAt9V.png" title="" alt="example-2D_histogram" data-align="center">The data (HYG 4.1) for this project was obtained from the HYG Database, which is provided by Astronomy Nexus; they have compiled data on nearly $120,000$ stars from combined subsets of data from the Hipparcos Catalog, the Yale Bright Star Catalog, and the Gliese Catalog of Nearby Stars.
 
 ## Getting Started
 
