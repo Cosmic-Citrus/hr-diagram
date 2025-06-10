@@ -22,7 +22,7 @@ An explanation of relevant parameters is below:
   
   * hotter stars appear bluer and cooler stars appear redder
   
-  * assuming that the star is an ideal blackbody, $T$ and $B-V$ are related by
+  * assuming that the star is an ideal blackbody, the relation between $T$ and $B-V$ is given by the Ballesteros Formula:
     
     $T = 4600 \ \text{K} \left[ \frac{1}{0.92(B-V) + 1.7} + \frac{1}{0.92(B-V) + 0.62} \right]$
 
@@ -54,7 +54,7 @@ An explanation of relevant parameters is below:
     
     $M = -2.5 \log\left(\frac{L}{L_{\odot}}\right) + M_{\odot}$
   
-  * assuming that the star is an ideal blackbody, $L$ is related to $T$ and $A_{S}$ by the Stefan-Boltzmann Law, given by
+  * assuming that the star is an ideal blackbody, the relation between $L$ with $T$ and $A_{S}$ is given by the Stefan-Boltzmann Law:
     
     $L = A_{S} \sigma T^{4}$
     
