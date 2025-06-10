@@ -6,7 +6,7 @@ The purpose of this code is to generate Hertzsprung-Russell (HR) Diagrams.
 
 The HR Diagram can be used to model stellar evolution. The location of a star on the HR Diagram will change as the star enters different stages of its life-cycle. Repeating this procedure for multiple stars reveals some trends that are useful for classifying them into different groups.
 
-<img src="output/example_01-data_via_web_scrape/HR_Diagram-LuminosityClass-AbsoluteMagnitude_VS_ColorIndex(BV)-wSun-wIsoRadius-wSpectralTypes_MarkAt9V.png" title="" alt="example-hr-diagram-basic" data-align="center">
+<img src="output/example_01-data_via_web_scrape/HR_Diagram-LuminosityHR_Diagram-LuminosityClass-Luminosity_VS_ColorIndex(BV)-wSun-wIsoRadius-wSpectralTypes_MarkAt9V.png" title="" alt="example-hr-diagram-basic" data-align="center">
 
 An explanation of relevant parameters is below:
 
