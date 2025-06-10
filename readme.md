@@ -14,7 +14,7 @@ An explanation of relevant parameters is below:
   
   * measures the average temperature at the surface of a star, typically in Kelvin $K$
   
-  * for reference, the surface temperature of the Sun is roughly $5800 K$
+  * for reference, the surface temperature of the Sun is roughly $5800$ $K$
 
 * Color Index $B-V$
   
