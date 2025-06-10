@@ -24,7 +24,7 @@ An explanation of relevant parameters is below:
   
   * assuming that the star is an ideal blackbody, $T$ and $B-V$ are related by
     
-    $T = 4,600 \, \text{K} \left[ \frac{1}{0.92(B-V) + 1.7} + \frac{1}{0.92(B-V) + 0.62} \right]$
+    $T = 4600 \ \text{K} \left[ \frac{1}{0.92(B-V) + 1.7} + \frac{1}{0.92(B-V) + 0.62} \right]$
 
 * Absolute magnitude $M$
   
