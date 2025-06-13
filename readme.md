@@ -24,7 +24,7 @@ An explanation of relevant parameters is below:
   
   * assuming that the star is an ideal blackbody, the relation between $T$ and $B-V$ is given by the Ballesteros Formula:
     
-    $T = 4600 \ \text{K} \left[ \frac{1}{0.92(B-V) + 1.7} + \frac{1}{0.92(B-V) + 0.62} \right]$
+    $T = 4600 \ \text{K} \cdot \left( \frac{1}{0.92(B-V) + 1.7} + \frac{1}{0.92(B-V) + 0.62} \right)$
 
 * Absolute magnitude $M$
   
@@ -79,6 +79,8 @@ An explanation of relevant parameters is below:
 * Luminosity classes
   
   * account for spectral features, such as the width of absorption lines, which relate to the surface gravity of the star
+ 
+  * luminosity classes are listed below
     
     * $0$ or $Ia+$
       
@@ -120,7 +122,7 @@ An explanation of relevant parameters is below:
       
       * white dwarfs
 
-As a helpful reference, the Sun is considered a G2 V star on the main sequence at present. Even without accounting for quantum effects - such as electron degeneracy pressure - there is a dance between gravity pulling the star inwards and thermal pressure pushing the star outwards; when the Sun is a red giant in a few billion years, it will have a different surface temperature, surface area, luminosity, absolute magnitude, spectral classification, and luminosity class. 
+As a helpful reference, the Sun is considered a $G2$ $V$ star on the main sequence at present. Even without accounting for quantum effects - such as electron degeneracy pressure - there is a dance between gravity pulling the star inwards and thermal pressure pushing the star outwards; when the Sun is a red giant in a few billion years, it will have a different surface temperature, surface area, luminosity, absolute magnitude, spectral classification, and luminosity class. 
 
 <img src="output/example_01-data_via_web_scrape/HR_Diagram-2DHistogram-AbsoluteMagnitude_VS_ColorIndex(BV)-wSun-wIsoRadius-wSpectralTypes_MarkAt9V.png" title="" alt="example-2D_histogram" data-align="center">The data [(HYG 4.1)](https://www.astronexus.com/downloads/catalogs/hygdata_v41.csv.gz) for this project was obtained from the HYG Database, which is provided by [Astronomy Nexus](https://www.astronexus.com/projects/hyg); they have compiled data on nearly $120,000$ stars from combined subsets of data from the Hipparcos Catalog, the Yale Bright Star Catalog, and the Gliese Catalog of Nearby Stars.
 
